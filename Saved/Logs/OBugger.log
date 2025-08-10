@@ -1540,3 +1540,53 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.10-03.08.44:526][603]AssetCheck: /Game/OhBugger/Meshes/bugshellbase Validating asset
 [2025.08.10-03.08.44:526][603]AssetCheck: /Game/OhBugger/Meshes/shellmat Validating asset
 [2025.08.10-03.08.44:542][603]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-03.12.27:388][756]LogPSOHitching: Encountered 400 PSO creation hitches so far (83 graphics, 317 compute). 0 of them were precached.
+[2025.08.10-03.12.27:449][756]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.08.10-03.12.27:549][756]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.08.10-03.12.35:879][210]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-03.12.35:906][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.08.10-03.12.39:366][210]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.10-03.12.44:384][387]LogStreaming: Display: FlushAsyncLoading(359): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.10-03.12.44:442][387]LogInterchangeEngine: [Pending] Importing
+[2025.08.10-03.12.44:442][387]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rellender/source/repos/GameJam/Bug/bug.fbx]
+[2025.08.10-03.13.07:858][387]LogStaticMesh: Display: Building static mesh bug (Required Memory Estimate: 586.371992 MB)...
+[2025.08.10-03.13.08:490][387]LogStaticMesh: Adjacency [0.03s], tris: 384504, UVs 1
+[2025.08.10-03.13.08:688][387]LogStaticMesh: Clustering [0.20s]. Ratio: 1.016644
+[2025.08.10-03.13.08:704][387]LogStaticMesh: Leaves [0.02s]
+[2025.08.10-03.13.10:951][387]LogStaticMesh: Reduce [2.25s]
+[2025.08.10-03.13.11:035][387]LogStaticMesh: Fallback [0.08s], num tris: 2625
+[2025.08.10-03.13.11:290][387]LogStaticMesh: ConstrainClusters:
+[2025.08.10-03.13.11:290][387]LogStaticMesh:   Input: 6251 Clusters, 787161 Triangles and 1145858 Vertices
+[2025.08.10-03.13.11:290][387]LogStaticMesh:   Output without splits: 6251 Clusters, 787161 Triangles and 1153924 Vertices
+[2025.08.10-03.13.11:290][387]LogStaticMesh:   Output with splits: 8013 Clusters, 787161 Triangles and 1155187 Vertices
+[2025.08.10-03.13.11:296][387]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 8013, Slow Path Clusters: 0, 1 Material: 8000, 2 Materials: 13, 3 Materials: 0, At Least 4 Materials: 0
+[2025.08.10-03.13.11:363][387]LogStaticMesh: WritePages:
+[2025.08.10-03.13.11:363][387]LogStaticMesh:   Root: GPU size: 32184 bytes. 1 Pages. 32184.000 bytes per page (98.218% utilization).
+[2025.08.10-03.13.11:363][387]LogStaticMesh:   Streaming: GPU size: 8412432 bytes. 65 Pages (61 with relative encoding). 129422.031 bytes per page (98.741% utilization).
+[2025.08.10-03.13.11:363][387]LogStaticMesh:   Page data disk size: 7272772 bytes. Fixup data size: 54864 bytes.
+[2025.08.10-03.13.11:363][387]LogStaticMesh:   Total GPU size: 8444616 bytes, Total disk size: 7327636 bytes.
+[2025.08.10-03.13.11:364][387]LogStaticMesh: Encode [0.33s]
+[2025.08.10-03.13.11:366][387]LogStaticMesh: NaniteBuild [2.91s]
+[2025.08.10-03.13.11:400][387]LogStaticMesh: Built static mesh [3.54s] /Game/OhBugger/Meshes/bug.bug
+[2025.08.10-03.13.12:002][387]LogStaticMesh: Warning: bug has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2025.08.10-03.13.12:002][387]LogStaticMesh: Warning: bug has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.08.10-03.13.12:162][387]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rellender/source/repos/GameJam/Bug/bug.fbx]
+[2025.08.10-03.13.12:162][387]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.10-03.13.12:162][387]LogInterchangeEngine: [Success] Import Done
+[2025.08.10-03.13.18:826][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.10-03.13.18:888][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OhBugger/Meshes/bug] ([1] browsable assets)...
+[2025.08.10-03.13.18:926][731]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OhBugger/Meshes/bug.bug]
+[2025.08.10-03.13.18:926][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/bug]
+[2025.08.10-03.13.18:926][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/bug" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset" SILENT=true
+[2025.08.10-03.13.18:991][731]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/bug
+[2025.08.10-03.13.18:991][731]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/bug1456B98648C070E9DBBD52910CDB4290.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset'
+[2025.08.10-03.13.19:002][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.345 ms (total: 1.58 sec)
+[2025.08.10-03.13.19:061][731]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.10-03.13.19:061][731]LogContentValidation: Enabled validators:
+[2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.10-03.13.19:061][731]AssetCheck: /Game/OhBugger/Meshes/bug Validating asset
