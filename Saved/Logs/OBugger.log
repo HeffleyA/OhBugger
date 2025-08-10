@@ -1823,3 +1823,19 @@ FPackageName: Skipped package /Game/OhBugger/Meshes/bugshellbase has a valid, mo
 [2025.08.10-23.52.18:795][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1746.499634
 [2025.08.10-23.52.19:796][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.10-23.52.19:797][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1747.168091, Update Interval: 334.996185
+[2025.08.10-23.52.49:444][622]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/OhBugger/Meshes/buganim_Anim.buganim_Anim
+[2025.08.10-23.52.49:445][622]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.08.10-23.52.49:452][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.10-23.52.49:773][622]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.08.10-23.52.50:176][622]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.08.10-23.52.54:517][834]LogSlate: Window 'buganim_Anim' being destroyed
+[2025.08.10-23.52.54:537][834]LogSlate: Window 'buganim_Anim' being destroyed
+[2025.08.10-23.52.54:567][834]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-23.52.54:567][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-23.52.54:572][834]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-23.52.54:572][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-23.52.54:607][834]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.08.10-23.52.54:607][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-23.52.54:643][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.10-23.55.42:316][523]LogPSOHitching: Encountered 450 PSO creation hitches so far (142 graphics, 308 compute). 0 of them were precached.
+[2025.08.10-23.55.43:886][602]LogPSOHitching: Encountered 500 PSO creation hitches so far (161 graphics, 339 compute). 0 of them were precached.
