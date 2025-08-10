@@ -1820,3 +1820,6 @@ FPackageName: Skipped package /Game/OhBugger/Meshes/bugshellbase has a valid, mo
 [2025.08.10-23.51.02:707][712]AssetCheck: /Game/OhBugger/Meshes/bugshellmat_001 Validating asset
 [2025.08.10-23.51.02:722][712]LogAutomationController: Ignoring very large delta of 2.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.08.10-23.51.02:723][712]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.10-23.52.18:795][328]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1746.499634
+[2025.08.10-23.52.19:796][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-23.52.19:797][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1747.168091, Update Interval: 334.996185
