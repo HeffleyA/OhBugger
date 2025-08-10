@@ -1,0 +1,25 @@
+[0809/155921.707:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0809/155921.817:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0809/155921.967:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0809/155921.989:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(86,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
+C:\fakepath(87,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
+
+[0809/155922.005:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(119,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0809/155922.009:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(117,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0809/155922.024:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(124,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_uvec4)
+
+[0809/160036.845:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
