@@ -1590,3 +1590,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.10-03.13.19:061][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.10-03.13.19:061][731]AssetCheck: /Game/OhBugger/Meshes/bug Validating asset
+[2025.08.10-03.13.43:728][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2092.408203
+[2025.08.10-03.13.43:827][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-03.13.43:827][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2092.490723, Update Interval: 358.908661
+[2025.08.10-03.13.45:488][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.08.10-03.13.47:068][213]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.10-03.13.47:101][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.08.10-03.13.47:117][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.08.10-03.13.47:131][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.08.10-03.13.48:996][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OhBugger/Meshes/bug.bug
+[2025.08.10-03.13.48:996][312]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OhBugger/Meshes/bug.bug
+[2025.08.10-03.13.48:996][312]LogActorFactory: Actor Factory spawned StaticMesh /Game/OhBugger/Meshes/bug.bug as actor: StaticMeshActor /Game/OhBugger/Maps/M_Level.M_Level:PersistentLevel.StaticMeshActor_7
+[2025.08.10-03.13.49:034][313]LogPSOHitching: Encountered 450 PSO creation hitches so far (102 graphics, 348 compute). 0 of them were precached.
+[2025.08.10-03.13.49:155][314]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.08.10-03.13.50:066][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.08.10-03.13.50:068][366]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2025.08.10-03.13.50:075][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OhBugger/Meshes/bug.bug
+[2025.08.10-03.13.50:075][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OhBugger/Meshes/bug.bug
+[2025.08.10-03.13.50:076][366]LogActorFactory: Actor Factory spawned StaticMesh /Game/OhBugger/Meshes/bug.bug as actor: StaticMeshActor /Game/OhBugger/Maps/M_Level.M_Level:PersistentLevel.StaticMeshActor_8
+[2025.08.10-03.13.51:260][434]Cmd: TRANSACTION UNDO
+[2025.08.10-03.13.51:260][434]LogEditorTransaction: Undo Place Objects
