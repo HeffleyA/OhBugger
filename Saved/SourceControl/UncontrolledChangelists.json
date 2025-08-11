@@ -6,7 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
-				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/Bug.uasset",
+				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset",
 				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Maps/M_Level.umap",
 				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_walk.uasset",
 				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/anim.uasset",
@@ -21,6 +21,7 @@
 				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bugshellbase.uasset",
 				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/plswork_anim.uasset",
 				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_idle.uasset",
+				"C:/Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/FbxScene_plswork_anim.uasset",
 				"C:/Users/nsears/Documents/Unreal Projects/OhBugger/Content/OhBugger/Blueprints/Enemy/BP_Enemy.uasset",
 				"C:/Users/nsears/Documents/Unreal Projects/OhBugger/Content/OhBugger/Blueprints/Enemy/BP_Crawler.uasset",
 				"C:/Users/nsears/Documents/Unreal Projects/OhBugger/Content/OhBugger/Blueprints/Enemy/E_EnemyState.uasset",
