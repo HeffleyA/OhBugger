@@ -1839,3 +1839,201 @@ FPackageName: Skipped package /Game/OhBugger/Meshes/bugshellbase has a valid, mo
 [2025.08.10-23.52.54:643][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
 [2025.08.10-23.55.42:316][523]LogPSOHitching: Encountered 450 PSO creation hitches so far (142 graphics, 308 compute). 0 of them were precached.
 [2025.08.10-23.55.43:886][602]LogPSOHitching: Encountered 500 PSO creation hitches so far (161 graphics, 339 compute). 0 of them were precached.
+[2025.08.10-23.56.46:313][ 30]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 35030
+[2025.08.10-23.56.46:314][ 30]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.08.10-23.56.46:329][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.10-23.58.49:987][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2137.691406
+[2025.08.10-23.58.50:985][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.10-23.58.50:985][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2138.356445, Update Interval: 355.539429
+[2025.08.11-00.01.20:580][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.11-00.01.22:168][131]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.11-00.01.22:194][131]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/OhBugger/Meshes/buganim_Anim.buganim_Anim
+	Asset Type: AnimSequence
+[2025.08.11-00.01.22:434][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.08.11-00.01.22:451][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.08.11-00.01.22:467][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.08.11-00.01.30:553][379]LogStreaming: Display: FlushAsyncLoading(380): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-00.01.30:618][379]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx]
+[2025.08.11-00.03.10:435][379]LogSlate: Window 'Import Content' being destroyed
+[2025.08.11-00.03.10:483][379]LogInterchangeEngine: [Pending] Importing
+[2025.08.11-00.03.10:497][379]LogAutomationController: Ignoring very large delta of 99.96 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.11-00.03.10:521][380]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.08.11-00.03.10:521][380]LogInterchangeEngine: [Success] Import Canceled
+[2025.08.11-00.03.53:791][886]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.11-00.04.31:249][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.11-00.04.31:263][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.11-00.04.34:605][187]LogStreaming: Display: FlushAsyncLoading(381): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-00.04.34:675][187]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx]
+[2025.08.11-00.08.11:076][187]LogSlate: Window 'Import Content' being destroyed
+[2025.08.11-00.08.11:125][187]LogInterchangeEngine: [Pending] Importing
+[2025.08.11-00.08.11:142][187]LogAutomationController: Ignoring very large delta of 216.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.11-00.08.11:239][188]LogStreaming: Display: FlushAsyncLoading(382): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-00.08.15:899][188]LogSlate: Window 'Message' being destroyed
+[2025.08.11-00.08.15:910][188]Message dialog closed, result: NoAll, title: Message, text: Are you sure you want to override asset 'Texture2D /Game/OhBugger/Meshes/bugbodybase.bugbodybase'?
+[2025.08.11-00.08.15:925][189]LogAutomationController: Ignoring very large delta of 4.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.11-00.08.16:775][191]LogStreaming: Display: FlushAsyncLoading(383): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.11-00.08.18:817][300]LogInterchangeEngine: Display: Interchange import cancelled [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx]
+[2025.08.11-00.08.18:817][300]Interchange: Warning: [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/OhBugger/Meshes/bugbodybase.bugbodybase'.
+[2025.08.11-00.08.18:817][300]Interchange: Warning: [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx : '', Texture2D] The option bReplaceExisting is false, we are not overriding the asset named 'Texture2D /Game/OhBugger/Meshes/bugshellbase.bugshellbase'.
+[2025.08.11-00.08.18:847][300]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.08.11-00.08.18:847][300]LogInterchangeEngine: [Success] Import Canceled
+[2025.08.11-00.08.23:378][559]LogPSOHitching: Encountered 550 PSO creation hitches so far (185 graphics, 365 compute). 0 of them were precached.
+[2025.08.11-00.08.26:637][632]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx]
+[2025.08.11-00.08.54:030][632]LogSlate: Window 'Import Content' being destroyed
+[2025.08.11-00.08.54:077][632]LogInterchangeEngine: [Pending] Importing
+[2025.08.11-00.08.54:098][632]LogAutomationController: Ignoring very large delta of 27.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.11-00.08.54:100][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2741.812256
+[2025.08.11-00.08.55:156][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.11-00.08.55:156][636]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2742.838379, Update Interval: 326.133606
+[2025.08.11-00.08.55:182][637]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/OhBugger/Meshes/plswork_anim.plswork_anim (Required Memory Estimate: 0.20 MB)
+[2025.08.11-00.08.55:182][637]LogAnimationCompression: Display: Storing compressed animation data for /Game/OhBugger/Meshes/plswork_anim.plswork_anim, at AnimationSequence/30ed2cfa292a22dda9c33902914997e99d20d9bb
+[2025.08.11-00.08.55:188][637]LogInterchangeEngine: Display: Interchange import completed [C:/Users/rellender/source/repos/GameJam/Bug/plswork_anim.fbx]
+[2025.08.11-00.08.55:194][637]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.11-00.08.55:194][637]LogInterchangeEngine: [Success] Import Done
+[2025.08.11-00.08.57:862][776]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/OhBugger/Meshes/plswork_anim.plswork_anim
+[2025.08.11-00.08.57:862][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.08.11-00.08.57:883][776]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.11-00.08.58:159][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.08.11-00.08.58:526][776]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.08.11-00.08.58:724][777]LogPSOHitching: Encountered 600 PSO creation hitches so far (204 graphics, 396 compute). 0 of them were precached.
+[2025.08.11-00.08.58:931][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.08.11-00.08.58:932][777]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/OhBugger/Maps/M_Level' took 0.075
+[2025.08.11-00.08.58:932][777]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OhBugger/Meshes/plswork_anim] ([1] browsable assets)...
+[2025.08.11-00.08.58:939][777]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/OhBugger/Meshes/plswork_anim.plswork_anim]
+[2025.08.11-00.08.58:939][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/plswork_anim]
+[2025.08.11-00.08.58:948][777]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OhBugger/Meshes/plswork_anim_Auto3
+[2025.08.11-00.08.58:948][777]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/plswork_anim_Auto37094A2AF4ECE9BE8804D4495C88286DA.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/Autosaves/Game/OhBugger/Meshes/plswork_anim_Auto3.uasset'
+[2025.08.11-00.08.58:949][777]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.08.11-00.09.16:116][594]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2025.08.11-00.09.16:116][594]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{203a8e0b-eeaf-487e-8deb-e9d36a828dfd}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.08.11-00.09.16:136][594]LogAudioMixer: Warning: FMixerPlatformXAudio2::OnCriticalError: 0x88880001: UNKNOWN
+[2025.08.11-00.09.16:152][594]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{203a8e0b-eeaf-487e-8deb-e9d36a828dfd}]
+[2025.08.11-00.09.16:152][594]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.08.11-00.09.16:152][594]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.08.11-00.09.17:060][597]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (T16 Stereo), InstanceID=1
+[2025.08.11-00.09.17:060][597]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.08.11-00.09.17:060][597]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{7756b19b-8da8-44e4-ad6c-e770343dd027}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.08.11-00.09.17:820][599]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{203a8e0b-eeaf-487e-8deb-e9d36a828dfd}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1607.18
+[2025.08.11-00.09.17:820][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.08.11-00.09.17:820][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.11-00.09.17:822][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.11-00.09.48:834][648]LogSlate: Window 'plswork_anim' being destroyed
+[2025.08.11-00.09.48:841][648]LogSlate: Window 'plswork_anim' being destroyed
+[2025.08.11-00.09.48:872][648]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-00.09.48:872][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-00.09.48:878][648]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-00.09.48:878][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-00.09.48:915][648]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-00.09.48:916][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-00.09.48:939][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.08.11-00.09.52:776][867]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/OhBugger/Meshes/plswork_anim.plswork_anim
+[2025.08.11-00.09.52:776][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.08.11-00.09.52:782][867]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.11-00.09.53:060][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.08.11-00.09.53:427][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.08.11-00.09.54:732][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-00.09.54:795][925]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/plswork_anim] ([1] browsable assets)...
+[2025.08.11-00.09.54:795][925]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/plswork_anim]
+[2025.08.11-00.09.54:795][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/plswork_anim" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/plswork_anim.uasset" SILENT=true
+[2025.08.11-00.09.54:805][925]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/plswork_anim
+[2025.08.11-00.09.54:805][925]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/plswork_animE3DEF35C4CB8D24D8FFF3D9E5BD5DC14.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/plswork_anim.uasset'
+[2025.08.11-00.09.54:816][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.305 ms (total: 2.36 sec)
+[2025.08.11-00.09.54:877][925]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-00.09.54:878][925]LogContentValidation: Enabled validators:
+[2025.08.11-00.09.54:878][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-00.09.54:878][925]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-00.09.54:878][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-00.09.54:878][925]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-00.09.54:878][925]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-00.09.54:878][925]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-00.09.54:878][925]AssetCheck: /Game/OhBugger/Meshes/plswork_anim Validating asset
+[2025.08.11-00.09.54:901][925]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-00.09.56:055][984]LogSlate: Window 'plswork_anim' being destroyed
+[2025.08.11-00.09.56:068][984]LogSlate: Window 'plswork_anim' being destroyed
+[2025.08.11-00.09.56:099][984]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-00.09.56:099][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-00.09.56:104][984]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-00.09.56:104][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-00.09.56:144][984]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.08.11-00.09.56:144][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.11-00.09.56:186][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.08.11-00.10.17:133][197]LogContentBrowser: Attempting asset rename: plswork_anim -> bug_idle
+[2025.08.11-00.10.17:250][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-00.10.17:251][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/bug_idle] ([1] browsable assets)...
+[2025.08.11-00.10.17:251][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/bug_idle]
+[2025.08.11-00.10.17:251][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/bug_idle" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_idle.uasset" SILENT=true
+[2025.08.11-00.10.17:258][197]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/bug_idle
+[2025.08.11-00.10.17:258][197]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/bug_idle139B186C48550948D3E9E9BEFF58BE4B.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_idle.uasset'
+[2025.08.11-00.10.17:259][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.120 ms (total: 2.37 sec)
+[2025.08.11-00.10.17:293][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.08.11-00.10.17:319][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.08.11-00.10.17:338][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.08.11-00.10.17:405][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.11-00.10.17:405][197]LogContentValidation: Enabled validators:
+[2025.08.11-00.10.17:405][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-00.10.17:405][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-00.10.17:405][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-00.10.17:405][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-00.10.17:405][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-00.10.17:405][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-00.10.17:405][197]AssetCheck: /Game/OhBugger/Meshes/bug_idle Validating asset
+[2025.08.11-00.10.17:444][197]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/SourceControl/UncontrolledChangelists.json
+[2025.08.11-00.10.24:514][594]LogContentBrowser: Attempting asset rename: buganim -> bug
+[2025.08.11-00.10.24:603][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-00.10.24:603][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/buganim_Skeleton] ([1] browsable assets)...
+[2025.08.11-00.10.24:603][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/buganim_Skeleton]
+[2025.08.11-00.10.24:603][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/buganim_Skeleton" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/buganim_Skeleton.uasset" SILENT=true
+[2025.08.11-00.10.24:611][594]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/buganim_Skeleton
+[2025.08.11-00.10.24:611][594]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/buganim_SkeletonA17AF7FA4ADA29ED95FE07B06823B1B7.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/buganim_Skeleton.uasset'
+[2025.08.11-00.10.24:612][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/bug] ([1] browsable assets)...
+[2025.08.11-00.10.24:612][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/bug]
+[2025.08.11-00.10.24:612][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/bug" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset" SILENT=true
+[2025.08.11-00.10.24:925][594]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/bug
+[2025.08.11-00.10.24:926][594]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/bugFD94894B4C3DB7A984595A9717267FAF.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset'
+[2025.08.11-00.10.24:926][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 323.474 ms (total: 2.69 sec)
+[2025.08.11-00.10.24:954][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.08.11-00.10.24:970][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.08.11-00.10.24:988][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.08.11-00.10.25:065][594]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.11-00.10.25:066][594]LogContentValidation: Enabled validators:
+[2025.08.11-00.10.25:066][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-00.10.25:066][594]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-00.10.25:066][594]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-00.10.25:066][594]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-00.10.25:066][594]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-00.10.25:066][594]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-00.10.25:066][594]AssetCheck: /Game/OhBugger/Meshes/buganim_Skeleton Validating asset
+[2025.08.11-00.10.25:066][594]AssetCheck: /Game/OhBugger/Meshes/bug Validating asset
+[2025.08.11-00.10.32:222][ 10]LogContentBrowser: Attempting asset rename: buganim_Skeleton -> bug_Skeleton
+[2025.08.11-00.10.32:328][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.11-00.10.32:329][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/bug] ([1] browsable assets)...
+[2025.08.11-00.10.32:329][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/bug]
+[2025.08.11-00.10.32:329][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/bug" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset" SILENT=true
+[2025.08.11-00.10.32:654][ 10]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/bug
+[2025.08.11-00.10.32:655][ 10]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/bugF5EEBEB94F16EAC749B2249F573CA226.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug.uasset'
+[2025.08.11-00.10.32:660][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/bug_idle] ([1] browsable assets)...
+[2025.08.11-00.10.32:660][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/bug_idle]
+[2025.08.11-00.10.32:660][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/bug_idle" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_idle.uasset" SILENT=true
+[2025.08.11-00.10.32:667][ 10]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/bug_idle
+[2025.08.11-00.10.32:667][ 10]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/bug_idle6314D57849A5555C15150080484F286A.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_idle.uasset'
+[2025.08.11-00.10.32:669][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/OhBugger/Meshes/bug_Skeleton] ([1] browsable assets)...
+[2025.08.11-00.10.32:669][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/OhBugger/Meshes/bug_Skeleton]
+[2025.08.11-00.10.32:669][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OhBugger/Meshes/bug_Skeleton" FILE="../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_Skeleton.uasset" SILENT=true
+[2025.08.11-00.10.32:674][ 10]LogSavePackage: Moving output files for package: /Game/OhBugger/Meshes/bug_Skeleton
+[2025.08.11-00.10.32:674][ 10]LogSavePackage: Moving '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Saved/bug_SkeletonD20D6961482F94FC035624B41321485C.tmp' to '../../../../../../Users/rellender/source/repos/GameJam/OhBugger/Content/OhBugger/Meshes/bug_Skeleton.uasset'
+[2025.08.11-00.10.32:675][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 346.476 ms (total: 3.04 sec)
+[2025.08.11-00.10.32:708][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.08.11-00.10.32:725][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.08.11-00.10.32:743][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: Display: Starting to validate 3 assets
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: Enabled validators:
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.11-00.10.32:816][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.11-00.10.32:816][ 10]AssetCheck: /Game/OhBugger/Meshes/bug Validating asset
+[2025.08.11-00.10.32:816][ 10]AssetCheck: /Game/OhBugger/Meshes/bug_idle Validating asset
+[2025.08.11-00.10.32:817][ 10]AssetCheck: /Game/OhBugger/Meshes/bug_Skeleton Validating asset
